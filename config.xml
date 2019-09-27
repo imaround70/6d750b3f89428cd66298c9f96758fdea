@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ua.skay.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. skay.ua</name>
 
@@ -32,12 +32,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/baf2fd6033cbe1616731b0b3cd962e64.png" density="ldpi" />
-        <icon src="res/android/icon/6cdc81beb12247ffe0546203ae50eccd.png" density="mdpi" />
-        <icon src="res/android/icon/43d66127413e72f7070a59f60b395e6a.png" density="hdpi" />
-        <icon src="res/android/icon/524d7843795b77cfa0401d8d5a2822cb.png" density="xhdpi" />
-        <icon src="res/android/icon/c931e74898bd1b28f23b9f48cefd86e7.png" density="xxhdpi" />
-        <icon src="res/android/icon/1892db646438865582005f4f381189be.png" density="xxxhdpi" />
+        <icon src="res/android/icon/8a457711176ec4342af4ae93f9d25409.png" density="ldpi" />
+        <icon src="res/android/icon/aaecc651dfd1c482af1d9bbd68b7aeb0.png" density="mdpi" />
+        <icon src="res/android/icon/a03f163ff81d786e17bddf45d1a9103b.png" density="hdpi" />
+        <icon src="res/android/icon/7d1d86d5b5f54e25608759f526cb0569.png" density="xhdpi" />
+        <icon src="res/android/icon/b05f0423eb394b29a84ad649180152b4.png" density="xxhdpi" />
+        <icon src="res/android/icon/e37e0901b96c2863640f191443fb2f8b.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/8b5de9033a0d22a2a3e23900d687dad4.png" density="port-hdpi"/>
         <splash src="res/android/screen/470512b1151d34827025b26e25ee35a0.png" density="port-ldpi"/>
